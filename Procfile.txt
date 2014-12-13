@@ -1,0 +1,1 @@
+web:    java -cp target/swerve-0.0.1-SNAPSHOT.war
